@@ -1,0 +1,5 @@
+{
+    "baseUrl" : "http://shuatiapitest.xhkjedu.com/",
+    "baseImageUrl": "https://filetest.xhkjedu.com/",
+    "showImageUrl": "https://filetest.xhkjedu.com/static/"
+}

@@ -1,0 +1,5 @@
+{
+    "baseUrl" : "http://192.168.1.120:8895/",
+    "baseImageUrl": "https://filetest.xhkjedu.com/",
+    "showImageUrl": "https://filetest.xhkjedu.com/static/"
+}
